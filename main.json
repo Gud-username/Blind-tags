@@ -1,0 +1,16 @@
+{
+	"id": "blindtags",
+	"name": "Blind tags",
+  "display_name": "BlindTags",
+	"author": ["Gud"],
+	"description": "Turns the blinds into tags",
+	"prefix": "blindtag",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "4f51ad",
+	"version": "1.0.0",
+	"badge_text_colour": "e3b6f9",
+	"dependencies": [
+        "malverk" 
+    ]
+}
